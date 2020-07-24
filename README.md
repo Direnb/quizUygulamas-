@@ -1,3 +1,3 @@
 # quizUygulamas-
 
-Soruları kendimizin yazdığı, scor hesabı yapan basit bir quiz uygulaması.
+Soruları kendimizin yazdığı, skor hesabı yapan basit bir quiz uygulaması.
